@@ -1,0 +1,1439 @@
+fecha,dia_semana,hora,categoria,producto,cantidad,precio_unitario,costo_unitario,venta_total,costo_total,metodo_pago,margen,margen_pct,mes
+2024-10-01,Mar,14:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Oct 2024
+2024-10-01,Mar,13:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-01,Mar,12:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Oct 2024
+2024-10-01,Mar,14:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Débito,11100,56.9,Oct 2024
+2024-10-01,Mar,18:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Oct 2024
+2024-10-01,Mar,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Oct 2024
+2024-10-01,Mar,13:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Oct 2024
+2024-10-01,Mar,21:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Oct 2024
+2024-10-01,Mar,13:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Oct 2024
+2024-10-02,Mié,15:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Oct 2024
+2024-10-02,Mié,19:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Oct 2024
+2024-10-02,Mié,22:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Oct 2024
+2024-10-02,Mié,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Crédito,12900,59.7,Oct 2024
+2024-10-02,Mié,13:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-02,Mié,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Oct 2024
+2024-10-02,Mié,20:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-02,Mié,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Oct 2024
+2024-10-02,Mié,12:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Oct 2024
+2024-10-02,Mié,22:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-02,Mié,20:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-02,Mié,18:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Crédito,2700,71.1,Oct 2024
+2024-10-02,Mié,14:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Oct 2024
+2024-10-03,Jue,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Oct 2024
+2024-10-03,Jue,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Oct 2024
+2024-10-03,Jue,16:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Oct 2024
+2024-10-03,Jue,20:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-03,Jue,22:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Efectivo,14600,58.4,Oct 2024
+2024-10-03,Jue,16:00,Postres,Leche asada,3,2200,700,6600,2100,Crédito,4500,68.2,Oct 2024
+2024-10-03,Jue,16:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Oct 2024
+2024-10-03,Jue,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Oct 2024
+2024-10-03,Jue,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Oct 2024
+2024-10-04,Vie,13:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Oct 2024
+2024-10-04,Vie,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Oct 2024
+2024-10-04,Vie,14:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Crédito,4800,72.7,Oct 2024
+2024-10-04,Vie,20:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Oct 2024
+2024-10-04,Vie,22:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Oct 2024
+2024-10-04,Vie,13:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Oct 2024
+2024-10-04,Vie,14:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Oct 2024
+2024-10-04,Vie,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Oct 2024
+2024-10-04,Vie,13:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Oct 2024
+2024-10-04,Vie,19:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Oct 2024
+2024-10-04,Vie,21:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Oct 2024
+2024-10-04,Vie,20:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Oct 2024
+2024-10-04,Vie,22:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Oct 2024
+2024-10-04,Vie,14:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Oct 2024
+2024-10-04,Vie,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Oct 2024
+2024-10-04,Vie,14:30,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Oct 2024
+2024-10-04,Vie,12:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Efectivo,12900,59.7,Oct 2024
+2024-10-04,Vie,20:00,Postres,Kuchen de murta,1,2800,900,2800,900,Crédito,1900,67.9,Oct 2024
+2024-10-04,Vie,12:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-04,Vie,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-04,Vie,21:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-05,Sáb,12:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Crédito,5400,60.7,Oct 2024
+2024-10-05,Sáb,20:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Oct 2024
+2024-10-05,Sáb,14:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Crédito,11100,56.9,Oct 2024
+2024-10-05,Sáb,14:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Oct 2024
+2024-10-05,Sáb,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Oct 2024
+2024-10-05,Sáb,19:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Oct 2024
+2024-10-05,Sáb,13:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Oct 2024
+2024-10-05,Sáb,17:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Oct 2024
+2024-10-05,Sáb,20:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Oct 2024
+2024-10-05,Sáb,16:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Oct 2024
+2024-10-05,Sáb,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Oct 2024
+2024-10-05,Sáb,12:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Oct 2024
+2024-10-05,Sáb,19:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Oct 2024
+2024-10-05,Sáb,20:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Oct 2024
+2024-10-05,Sáb,20:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Oct 2024
+2024-10-05,Sáb,19:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Efectivo,14600,58.4,Oct 2024
+2024-10-05,Sáb,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Oct 2024
+2024-10-05,Sáb,14:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Oct 2024
+2024-10-05,Sáb,22:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Oct 2024
+2024-10-05,Sáb,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Oct 2024
+2024-10-05,Sáb,14:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Oct 2024
+2024-10-05,Sáb,18:00,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Oct 2024
+2024-10-05,Sáb,14:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Oct 2024
+2024-10-05,Sáb,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Oct 2024
+2024-10-05,Sáb,13:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Oct 2024
+2024-10-06,Dom,22:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Crédito,6700,62.0,Oct 2024
+2024-10-06,Dom,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Oct 2024
+2024-10-06,Dom,22:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Oct 2024
+2024-10-06,Dom,13:30,Postres,Leche asada,1,2200,700,2200,700,Crédito,1500,68.2,Oct 2024
+2024-10-06,Dom,12:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-06,Dom,12:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Efectivo,12900,59.7,Oct 2024
+2024-10-06,Dom,21:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Oct 2024
+2024-10-06,Dom,18:30,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Oct 2024
+2024-10-06,Dom,20:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Oct 2024
+2024-10-06,Dom,21:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-06,Dom,13:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Oct 2024
+2024-10-06,Dom,14:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Oct 2024
+2024-10-06,Dom,22:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Oct 2024
+2024-10-06,Dom,17:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Oct 2024
+2024-10-06,Dom,16:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-06,Dom,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Oct 2024
+2024-10-06,Dom,20:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-06,Dom,13:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Oct 2024
+2024-10-06,Dom,21:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Oct 2024
+2024-10-07,Lun,19:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Oct 2024
+2024-10-07,Lun,22:30,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Oct 2024
+2024-10-07,Lun,14:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Crédito,4300,59.7,Oct 2024
+2024-10-07,Lun,12:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Crédito,5400,60.7,Oct 2024
+2024-10-07,Lun,13:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Crédito,5400,71.1,Oct 2024
+2024-10-07,Lun,15:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Oct 2024
+2024-10-07,Lun,14:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Oct 2024
+2024-10-07,Lun,12:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Oct 2024
+2024-10-07,Lun,13:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Oct 2024
+2024-10-07,Lun,21:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Oct 2024
+2024-10-07,Lun,20:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-08,Mar,19:30,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Oct 2024
+2024-10-08,Mar,16:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Oct 2024
+2024-10-08,Mar,13:30,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Oct 2024
+2024-10-08,Mar,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Oct 2024
+2024-10-08,Mar,14:00,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Oct 2024
+2024-10-08,Mar,22:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Oct 2024
+2024-10-08,Mar,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Oct 2024
+2024-10-08,Mar,13:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Crédito,7400,56.9,Oct 2024
+2024-10-08,Mar,20:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Oct 2024
+2024-10-08,Mar,12:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-09,Mié,14:30,Postres,Leche asada,1,2200,700,2200,700,Crédito,1500,68.2,Oct 2024
+2024-10-09,Mié,12:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Oct 2024
+2024-10-09,Mié,12:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Crédito,3700,56.9,Oct 2024
+2024-10-09,Mié,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Oct 2024
+2024-10-09,Mié,17:30,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Oct 2024
+2024-10-09,Mié,21:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-09,Mié,12:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Oct 2024
+2024-10-09,Mié,12:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Oct 2024
+2024-10-09,Mié,14:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Oct 2024
+2024-10-09,Mié,13:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Oct 2024
+2024-10-09,Mié,20:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Crédito,6700,62.0,Oct 2024
+2024-10-09,Mié,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Oct 2024
+2024-10-09,Mié,22:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Oct 2024
+2024-10-09,Mié,15:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-10,Jue,12:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Oct 2024
+2024-10-10,Jue,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Crédito,6700,62.0,Oct 2024
+2024-10-10,Jue,13:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-10,Jue,14:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Oct 2024
+2024-10-10,Jue,16:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Oct 2024
+2024-10-10,Jue,21:30,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Oct 2024
+2024-10-10,Jue,13:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Oct 2024
+2024-10-10,Jue,21:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Oct 2024
+2024-10-10,Jue,20:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Oct 2024
+2024-10-11,Vie,21:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Oct 2024
+2024-10-11,Vie,12:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Oct 2024
+2024-10-11,Vie,15:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Oct 2024
+2024-10-11,Vie,12:00,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Oct 2024
+2024-10-11,Vie,15:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-11,Vie,20:30,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Oct 2024
+2024-10-11,Vie,17:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Oct 2024
+2024-10-11,Vie,21:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Oct 2024
+2024-10-11,Vie,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Oct 2024
+2024-10-11,Vie,16:30,Bebidas,Agua mineral,1,1200,350,1200,350,Crédito,850,70.8,Oct 2024
+2024-10-11,Vie,20:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Oct 2024
+2024-10-11,Vie,20:00,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Oct 2024
+2024-10-11,Vie,14:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Crédito,11100,56.9,Oct 2024
+2024-10-11,Vie,19:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Oct 2024
+2024-10-11,Vie,19:30,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Oct 2024
+2024-10-11,Vie,13:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Crédito,3700,56.9,Oct 2024
+2024-10-11,Vie,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Oct 2024
+2024-10-11,Vie,12:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Crédito,11100,56.9,Oct 2024
+2024-10-11,Vie,12:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Oct 2024
+2024-10-11,Vie,21:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Oct 2024
+2024-10-11,Vie,16:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-11,Vie,14:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Oct 2024
+2024-10-12,Sáb,13:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Oct 2024
+2024-10-12,Sáb,12:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Oct 2024
+2024-10-12,Sáb,19:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Oct 2024
+2024-10-12,Sáb,16:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Oct 2024
+2024-10-12,Sáb,20:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Oct 2024
+2024-10-12,Sáb,14:30,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Oct 2024
+2024-10-12,Sáb,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Oct 2024
+2024-10-12,Sáb,16:30,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Oct 2024
+2024-10-12,Sáb,19:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Oct 2024
+2024-10-12,Sáb,21:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Oct 2024
+2024-10-12,Sáb,21:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Oct 2024
+2024-10-12,Sáb,12:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Oct 2024
+2024-10-12,Sáb,16:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Oct 2024
+2024-10-12,Sáb,13:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-12,Sáb,19:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Oct 2024
+2024-10-12,Sáb,16:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Oct 2024
+2024-10-12,Sáb,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Oct 2024
+2024-10-12,Sáb,19:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-12,Sáb,17:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Oct 2024
+2024-10-12,Sáb,12:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Oct 2024
+2024-10-12,Sáb,22:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Oct 2024
+2024-10-12,Sáb,21:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Oct 2024
+2024-10-13,Dom,18:00,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Oct 2024
+2024-10-13,Dom,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Oct 2024
+2024-10-13,Dom,16:30,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Oct 2024
+2024-10-13,Dom,15:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Oct 2024
+2024-10-13,Dom,14:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Oct 2024
+2024-10-13,Dom,21:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Oct 2024
+2024-10-13,Dom,22:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Oct 2024
+2024-10-13,Dom,21:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Oct 2024
+2024-10-13,Dom,14:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Oct 2024
+2024-10-13,Dom,19:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Oct 2024
+2024-10-13,Dom,22:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Crédito,5800,64.4,Oct 2024
+2024-10-13,Dom,14:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Crédito,5400,60.7,Oct 2024
+2024-10-13,Dom,13:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Oct 2024
+2024-10-13,Dom,20:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-13,Dom,21:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Efectivo,21900,58.4,Oct 2024
+2024-10-13,Dom,22:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Oct 2024
+2024-10-13,Dom,20:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Oct 2024
+2024-10-13,Dom,22:30,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Oct 2024
+2024-10-14,Lun,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Oct 2024
+2024-10-14,Lun,19:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Oct 2024
+2024-10-14,Lun,21:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Efectivo,14600,58.4,Oct 2024
+2024-10-14,Lun,18:00,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Oct 2024
+2024-10-14,Lun,18:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Crédito,5400,71.1,Oct 2024
+2024-10-14,Lun,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Oct 2024
+2024-10-14,Lun,19:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Oct 2024
+2024-10-14,Lun,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Oct 2024
+2024-10-14,Lun,22:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Oct 2024
+2024-10-14,Lun,13:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Oct 2024
+2024-10-14,Lun,17:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Efectivo,8100,71.1,Oct 2024
+2024-10-14,Lun,18:30,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Oct 2024
+2024-10-14,Lun,12:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Oct 2024
+2024-10-14,Lun,14:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Oct 2024
+2024-10-15,Mar,22:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Oct 2024
+2024-10-15,Mar,22:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Oct 2024
+2024-10-15,Mar,14:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Oct 2024
+2024-10-15,Mar,21:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Oct 2024
+2024-10-15,Mar,17:30,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Oct 2024
+2024-10-15,Mar,16:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Oct 2024
+2024-10-15,Mar,12:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Oct 2024
+2024-10-15,Mar,21:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-15,Mar,13:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Oct 2024
+2024-10-15,Mar,16:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Oct 2024
+2024-10-15,Mar,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Oct 2024
+2024-10-15,Mar,17:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Oct 2024
+2024-10-16,Mié,16:30,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Oct 2024
+2024-10-16,Mié,13:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Oct 2024
+2024-10-16,Mié,14:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Oct 2024
+2024-10-16,Mié,20:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-16,Mié,13:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Oct 2024
+2024-10-16,Mié,19:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Oct 2024
+2024-10-16,Mié,13:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Oct 2024
+2024-10-16,Mié,17:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Efectivo,3800,67.9,Oct 2024
+2024-10-16,Mié,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Oct 2024
+2024-10-16,Mié,21:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Oct 2024
+2024-10-16,Mié,12:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Crédito,4300,59.7,Oct 2024
+2024-10-16,Mié,15:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Oct 2024
+2024-10-16,Mié,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Oct 2024
+2024-10-16,Mié,12:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Oct 2024
+2024-10-16,Mié,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Oct 2024
+2024-10-17,Jue,17:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Oct 2024
+2024-10-17,Jue,14:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Oct 2024
+2024-10-17,Jue,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Oct 2024
+2024-10-17,Jue,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Oct 2024
+2024-10-17,Jue,20:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Oct 2024
+2024-10-17,Jue,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Oct 2024
+2024-10-17,Jue,13:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Crédito,3600,62.1,Oct 2024
+2024-10-17,Jue,20:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Oct 2024
+2024-10-17,Jue,21:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Oct 2024
+2024-10-17,Jue,16:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Oct 2024
+2024-10-17,Jue,14:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Oct 2024
+2024-10-18,Vie,22:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-18,Vie,18:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Oct 2024
+2024-10-18,Vie,21:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Crédito,5800,64.4,Oct 2024
+2024-10-18,Vie,19:00,Postres,Kuchen de murta,1,2800,900,2800,900,Crédito,1900,67.9,Oct 2024
+2024-10-18,Vie,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Oct 2024
+2024-10-18,Vie,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Oct 2024
+2024-10-18,Vie,17:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Oct 2024
+2024-10-18,Vie,18:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Oct 2024
+2024-10-18,Vie,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Oct 2024
+2024-10-18,Vie,12:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Oct 2024
+2024-10-18,Vie,20:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Crédito,21900,58.4,Oct 2024
+2024-10-18,Vie,21:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Crédito,8100,71.1,Oct 2024
+2024-10-18,Vie,16:00,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Oct 2024
+2024-10-18,Vie,21:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Oct 2024
+2024-10-18,Vie,14:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Oct 2024
+2024-10-18,Vie,12:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-18,Vie,22:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-18,Vie,21:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Oct 2024
+2024-10-18,Vie,12:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Oct 2024
+2024-10-18,Vie,22:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-18,Vie,13:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Efectivo,3200,72.7,Oct 2024
+2024-10-19,Sáb,22:30,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Oct 2024
+2024-10-19,Sáb,12:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Oct 2024
+2024-10-19,Sáb,12:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-19,Sáb,13:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Oct 2024
+2024-10-19,Sáb,15:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Oct 2024
+2024-10-19,Sáb,12:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Oct 2024
+2024-10-19,Sáb,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Oct 2024
+2024-10-19,Sáb,18:30,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Oct 2024
+2024-10-19,Sáb,20:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Oct 2024
+2024-10-19,Sáb,13:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Oct 2024
+2024-10-19,Sáb,19:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-19,Sáb,13:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Oct 2024
+2024-10-19,Sáb,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Oct 2024
+2024-10-19,Sáb,14:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Oct 2024
+2024-10-19,Sáb,12:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Efectivo,12900,59.7,Oct 2024
+2024-10-19,Sáb,19:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-19,Sáb,22:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Oct 2024
+2024-10-19,Sáb,13:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-19,Sáb,19:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Efectivo,21900,58.4,Oct 2024
+2024-10-19,Sáb,19:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Oct 2024
+2024-10-19,Sáb,19:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Oct 2024
+2024-10-19,Sáb,22:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Crédito,5800,64.4,Oct 2024
+2024-10-19,Sáb,22:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Oct 2024
+2024-10-19,Sáb,14:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Efectivo,3200,72.7,Oct 2024
+2024-10-19,Sáb,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Oct 2024
+2024-10-20,Dom,20:00,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-20,Dom,22:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Oct 2024
+2024-10-20,Dom,14:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Oct 2024
+2024-10-20,Dom,22:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Efectivo,3200,72.7,Oct 2024
+2024-10-20,Dom,21:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Efectivo,3800,67.9,Oct 2024
+2024-10-20,Dom,14:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Oct 2024
+2024-10-20,Dom,22:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Oct 2024
+2024-10-20,Dom,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Oct 2024
+2024-10-20,Dom,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Oct 2024
+2024-10-20,Dom,17:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Oct 2024
+2024-10-20,Dom,13:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Oct 2024
+2024-10-20,Dom,12:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Oct 2024
+2024-10-20,Dom,14:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Oct 2024
+2024-10-20,Dom,14:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Oct 2024
+2024-10-20,Dom,21:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-20,Dom,21:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-20,Dom,19:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Oct 2024
+2024-10-20,Dom,15:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Oct 2024
+2024-10-20,Dom,19:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-20,Dom,20:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Oct 2024
+2024-10-20,Dom,19:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Oct 2024
+2024-10-20,Dom,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Oct 2024
+2024-10-20,Dom,13:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Oct 2024
+2024-10-20,Dom,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Crédito,5800,64.4,Oct 2024
+2024-10-20,Dom,13:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Oct 2024
+2024-10-21,Lun,19:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Oct 2024
+2024-10-21,Lun,14:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Oct 2024
+2024-10-21,Lun,22:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Oct 2024
+2024-10-21,Lun,12:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Oct 2024
+2024-10-21,Lun,14:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Oct 2024
+2024-10-21,Lun,13:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Oct 2024
+2024-10-21,Lun,21:30,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Oct 2024
+2024-10-21,Lun,21:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Oct 2024
+2024-10-21,Lun,14:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-21,Lun,17:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Oct 2024
+2024-10-21,Lun,22:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Oct 2024
+2024-10-22,Mar,20:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Crédito,3200,72.7,Oct 2024
+2024-10-22,Mar,14:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Oct 2024
+2024-10-22,Mar,13:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Oct 2024
+2024-10-22,Mar,22:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-22,Mar,20:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Oct 2024
+2024-10-22,Mar,14:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-22,Mar,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Oct 2024
+2024-10-22,Mar,12:30,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Oct 2024
+2024-10-22,Mar,12:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-23,Mié,19:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Oct 2024
+2024-10-23,Mié,14:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Oct 2024
+2024-10-23,Mié,22:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Oct 2024
+2024-10-23,Mié,21:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-23,Mié,21:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Oct 2024
+2024-10-23,Mié,20:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-23,Mié,21:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Oct 2024
+2024-10-23,Mié,20:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Oct 2024
+2024-10-23,Mié,17:30,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Oct 2024
+2024-10-23,Mié,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Oct 2024
+2024-10-23,Mié,22:00,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Oct 2024
+2024-10-23,Mié,22:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Oct 2024
+2024-10-23,Mié,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-23,Mié,12:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Oct 2024
+2024-10-23,Mié,21:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Oct 2024
+2024-10-24,Jue,21:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Crédito,2900,64.4,Oct 2024
+2024-10-24,Jue,14:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Oct 2024
+2024-10-24,Jue,13:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Oct 2024
+2024-10-24,Jue,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Crédito,12900,59.7,Oct 2024
+2024-10-24,Jue,15:00,Bebidas,Agua mineral,1,1200,350,1200,350,Crédito,850,70.8,Oct 2024
+2024-10-24,Jue,14:30,Bebidas,Agua mineral,1,1200,350,1200,350,Crédito,850,70.8,Oct 2024
+2024-10-24,Jue,21:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Oct 2024
+2024-10-24,Jue,20:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Oct 2024
+2024-10-24,Jue,12:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Oct 2024
+2024-10-24,Jue,13:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Crédito,7400,56.9,Oct 2024
+2024-10-24,Jue,14:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Oct 2024
+2024-10-24,Jue,19:30,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Oct 2024
+2024-10-24,Jue,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Oct 2024
+2024-10-25,Vie,20:30,Postres,Kuchen de murta,1,2800,900,2800,900,Crédito,1900,67.9,Oct 2024
+2024-10-25,Vie,22:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Oct 2024
+2024-10-25,Vie,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Oct 2024
+2024-10-25,Vie,20:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Oct 2024
+2024-10-25,Vie,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Oct 2024
+2024-10-25,Vie,20:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Oct 2024
+2024-10-25,Vie,22:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Crédito,4800,72.7,Oct 2024
+2024-10-25,Vie,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Oct 2024
+2024-10-25,Vie,12:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Débito,11100,56.9,Oct 2024
+2024-10-25,Vie,20:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Oct 2024
+2024-10-25,Vie,22:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Oct 2024
+2024-10-25,Vie,15:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-25,Vie,12:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Oct 2024
+2024-10-25,Vie,15:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Oct 2024
+2024-10-25,Vie,17:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Oct 2024
+2024-10-25,Vie,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Oct 2024
+2024-10-25,Vie,22:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Oct 2024
+2024-10-25,Vie,22:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Crédito,7300,58.4,Oct 2024
+2024-10-25,Vie,13:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Oct 2024
+2024-10-25,Vie,20:30,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Oct 2024
+2024-10-25,Vie,12:00,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-25,Vie,12:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Oct 2024
+2024-10-25,Vie,21:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-25,Vie,13:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Oct 2024
+2024-10-25,Vie,21:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-26,Sáb,21:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Oct 2024
+2024-10-26,Sáb,16:00,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Oct 2024
+2024-10-26,Sáb,21:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Crédito,8700,64.4,Oct 2024
+2024-10-26,Sáb,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Oct 2024
+2024-10-26,Sáb,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Oct 2024
+2024-10-26,Sáb,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Oct 2024
+2024-10-26,Sáb,20:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Oct 2024
+2024-10-26,Sáb,21:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Oct 2024
+2024-10-26,Sáb,12:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-26,Sáb,21:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Oct 2024
+2024-10-26,Sáb,21:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Oct 2024
+2024-10-26,Sáb,14:30,Bebidas,Agua mineral,1,1200,350,1200,350,Crédito,850,70.8,Oct 2024
+2024-10-26,Sáb,12:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Oct 2024
+2024-10-26,Sáb,22:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Oct 2024
+2024-10-26,Sáb,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Oct 2024
+2024-10-26,Sáb,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Oct 2024
+2024-10-26,Sáb,21:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Crédito,5800,64.4,Oct 2024
+2024-10-26,Sáb,21:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Oct 2024
+2024-10-26,Sáb,13:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Crédito,4300,59.7,Oct 2024
+2024-10-26,Sáb,21:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Oct 2024
+2024-10-26,Sáb,22:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Oct 2024
+2024-10-27,Dom,19:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Oct 2024
+2024-10-27,Dom,13:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Oct 2024
+2024-10-27,Dom,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Oct 2024
+2024-10-27,Dom,15:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Oct 2024
+2024-10-27,Dom,16:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Oct 2024
+2024-10-27,Dom,15:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Oct 2024
+2024-10-27,Dom,15:00,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Oct 2024
+2024-10-27,Dom,22:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Oct 2024
+2024-10-27,Dom,14:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Oct 2024
+2024-10-27,Dom,19:00,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-27,Dom,12:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Oct 2024
+2024-10-27,Dom,12:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Crédito,3200,72.7,Oct 2024
+2024-10-27,Dom,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Oct 2024
+2024-10-27,Dom,16:00,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Oct 2024
+2024-10-27,Dom,13:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Oct 2024
+2024-10-27,Dom,20:30,Postres,Kuchen de murta,1,2800,900,2800,900,Crédito,1900,67.9,Oct 2024
+2024-10-27,Dom,16:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Oct 2024
+2024-10-27,Dom,19:30,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Oct 2024
+2024-10-27,Dom,17:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-27,Dom,12:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-27,Dom,13:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Crédito,3600,62.1,Oct 2024
+2024-10-27,Dom,17:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Oct 2024
+2024-10-28,Lun,16:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Oct 2024
+2024-10-28,Lun,12:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Oct 2024
+2024-10-28,Lun,12:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-28,Lun,21:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Crédito,8700,64.4,Oct 2024
+2024-10-28,Lun,21:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Crédito,7300,58.4,Oct 2024
+2024-10-28,Lun,14:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Oct 2024
+2024-10-28,Lun,22:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Oct 2024
+2024-10-28,Lun,12:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Oct 2024
+2024-10-28,Lun,17:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Oct 2024
+2024-10-28,Lun,20:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Oct 2024
+2024-10-28,Lun,13:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Oct 2024
+2024-10-29,Mar,14:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Oct 2024
+2024-10-29,Mar,18:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Oct 2024
+2024-10-29,Mar,22:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Oct 2024
+2024-10-29,Mar,19:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Efectivo,21900,58.4,Oct 2024
+2024-10-29,Mar,21:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Crédito,8700,64.4,Oct 2024
+2024-10-29,Mar,13:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Oct 2024
+2024-10-29,Mar,14:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Oct 2024
+2024-10-29,Mar,22:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Oct 2024
+2024-10-29,Mar,20:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Oct 2024
+2024-10-29,Mar,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Oct 2024
+2024-10-29,Mar,12:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Oct 2024
+2024-10-29,Mar,20:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-29,Mar,12:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Oct 2024
+2024-10-29,Mar,14:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Crédito,4300,59.7,Oct 2024
+2024-10-29,Mar,19:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Oct 2024
+2024-10-30,Mié,21:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Oct 2024
+2024-10-30,Mié,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Oct 2024
+2024-10-30,Mié,12:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Crédito,3700,56.9,Oct 2024
+2024-10-30,Mié,21:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Oct 2024
+2024-10-30,Mié,17:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Oct 2024
+2024-10-30,Mié,20:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Oct 2024
+2024-10-30,Mié,14:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Débito,11100,56.9,Oct 2024
+2024-10-30,Mié,19:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Crédito,3200,72.7,Oct 2024
+2024-10-31,Jue,17:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Efectivo,3200,72.7,Oct 2024
+2024-10-31,Jue,20:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Crédito,2900,64.4,Oct 2024
+2024-10-31,Jue,20:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Oct 2024
+2024-10-31,Jue,20:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Oct 2024
+2024-10-31,Jue,19:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Oct 2024
+2024-10-31,Jue,15:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Oct 2024
+2024-10-31,Jue,21:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Oct 2024
+2024-10-31,Jue,22:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Oct 2024
+2024-10-31,Jue,21:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Crédito,6700,62.0,Oct 2024
+2024-10-31,Jue,13:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Oct 2024
+2024-10-31,Jue,15:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Oct 2024
+2024-10-31,Jue,22:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Oct 2024
+2024-10-31,Jue,21:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Crédito,21900,58.4,Oct 2024
+2024-10-31,Jue,13:30,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Oct 2024
+2024-11-01,Vie,22:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Nov 2024
+2024-11-01,Vie,14:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Nov 2024
+2024-11-01,Vie,21:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Nov 2024
+2024-11-01,Vie,20:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Nov 2024
+2024-11-01,Vie,20:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Nov 2024
+2024-11-01,Vie,22:30,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Nov 2024
+2024-11-01,Vie,20:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Nov 2024
+2024-11-01,Vie,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Nov 2024
+2024-11-01,Vie,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-01,Vie,15:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Nov 2024
+2024-11-01,Vie,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Nov 2024
+2024-11-01,Vie,22:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-01,Vie,14:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Nov 2024
+2024-11-01,Vie,16:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Nov 2024
+2024-11-01,Vie,22:30,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Nov 2024
+2024-11-01,Vie,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Nov 2024
+2024-11-01,Vie,16:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-01,Vie,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-01,Vie,15:30,Postres,Leche asada,3,2200,700,6600,2100,Crédito,4500,68.2,Nov 2024
+2024-11-01,Vie,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-01,Vie,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Nov 2024
+2024-11-01,Vie,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Nov 2024
+2024-11-01,Vie,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Nov 2024
+2024-11-02,Sáb,19:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Crédito,21900,58.4,Nov 2024
+2024-11-02,Sáb,21:00,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Nov 2024
+2024-11-02,Sáb,19:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-02,Sáb,18:00,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Nov 2024
+2024-11-02,Sáb,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Crédito,12900,59.7,Nov 2024
+2024-11-02,Sáb,22:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Nov 2024
+2024-11-02,Sáb,17:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Nov 2024
+2024-11-02,Sáb,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Nov 2024
+2024-11-02,Sáb,22:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Nov 2024
+2024-11-02,Sáb,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-02,Sáb,19:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-02,Sáb,13:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-02,Sáb,14:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-02,Sáb,12:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-02,Sáb,19:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Nov 2024
+2024-11-02,Sáb,20:30,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Nov 2024
+2024-11-02,Sáb,19:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Nov 2024
+2024-11-02,Sáb,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Crédito,8700,64.4,Nov 2024
+2024-11-02,Sáb,14:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Nov 2024
+2024-11-02,Sáb,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Nov 2024
+2024-11-02,Sáb,12:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-02,Sáb,13:30,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Nov 2024
+2024-11-02,Sáb,22:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Nov 2024
+2024-11-02,Sáb,13:00,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Nov 2024
+2024-11-02,Sáb,21:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Nov 2024
+2024-11-03,Dom,21:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-03,Dom,15:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Nov 2024
+2024-11-03,Dom,21:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-03,Dom,21:00,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Nov 2024
+2024-11-03,Dom,21:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Nov 2024
+2024-11-03,Dom,14:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Nov 2024
+2024-11-03,Dom,15:30,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Nov 2024
+2024-11-03,Dom,13:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-03,Dom,13:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Nov 2024
+2024-11-03,Dom,19:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-03,Dom,22:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Nov 2024
+2024-11-03,Dom,21:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Nov 2024
+2024-11-03,Dom,22:30,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Nov 2024
+2024-11-03,Dom,14:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Crédito,7400,56.9,Nov 2024
+2024-11-03,Dom,19:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Nov 2024
+2024-11-03,Dom,20:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-03,Dom,22:00,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Nov 2024
+2024-11-03,Dom,13:30,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Nov 2024
+2024-11-03,Dom,12:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-03,Dom,15:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Nov 2024
+2024-11-03,Dom,19:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Nov 2024
+2024-11-03,Dom,13:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Nov 2024
+2024-11-03,Dom,14:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Nov 2024
+2024-11-03,Dom,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Nov 2024
+2024-11-04,Lun,14:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-04,Lun,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Nov 2024
+2024-11-04,Lun,19:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Nov 2024
+2024-11-04,Lun,13:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Nov 2024
+2024-11-04,Lun,20:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Nov 2024
+2024-11-04,Lun,20:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Nov 2024
+2024-11-04,Lun,19:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Crédito,5800,64.4,Nov 2024
+2024-11-04,Lun,14:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-04,Lun,14:30,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Nov 2024
+2024-11-04,Lun,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-04,Lun,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-04,Lun,13:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Nov 2024
+2024-11-04,Lun,20:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Nov 2024
+2024-11-04,Lun,12:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Nov 2024
+2024-11-05,Mar,22:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-05,Mar,19:30,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Nov 2024
+2024-11-05,Mar,12:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Nov 2024
+2024-11-05,Mar,16:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-05,Mar,20:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Nov 2024
+2024-11-05,Mar,17:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Nov 2024
+2024-11-05,Mar,13:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Crédito,12900,59.7,Nov 2024
+2024-11-05,Mar,13:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Nov 2024
+2024-11-05,Mar,13:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Nov 2024
+2024-11-05,Mar,21:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Nov 2024
+2024-11-05,Mar,20:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Crédito,2900,64.4,Nov 2024
+2024-11-06,Mié,17:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-06,Mié,21:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-06,Mié,22:00,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Nov 2024
+2024-11-06,Mié,19:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Nov 2024
+2024-11-06,Mié,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-06,Mié,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Nov 2024
+2024-11-06,Mié,16:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-06,Mié,13:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-07,Jue,19:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Nov 2024
+2024-11-07,Jue,13:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Nov 2024
+2024-11-07,Jue,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Crédito,6700,62.0,Nov 2024
+2024-11-07,Jue,13:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Crédito,8600,59.7,Nov 2024
+2024-11-07,Jue,20:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Nov 2024
+2024-11-07,Jue,12:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Débito,11100,56.9,Nov 2024
+2024-11-07,Jue,12:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Nov 2024
+2024-11-07,Jue,13:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Crédito,11100,56.9,Nov 2024
+2024-11-07,Jue,16:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Efectivo,3800,67.9,Nov 2024
+2024-11-07,Jue,21:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Nov 2024
+2024-11-07,Jue,14:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-07,Jue,15:30,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Nov 2024
+2024-11-07,Jue,12:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Nov 2024
+2024-11-08,Vie,22:30,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Nov 2024
+2024-11-08,Vie,19:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-08,Vie,12:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-08,Vie,12:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Crédito,7200,62.1,Nov 2024
+2024-11-08,Vie,13:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Nov 2024
+2024-11-08,Vie,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-08,Vie,17:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Nov 2024
+2024-11-08,Vie,22:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Crédito,2900,64.4,Nov 2024
+2024-11-08,Vie,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Nov 2024
+2024-11-08,Vie,20:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Nov 2024
+2024-11-08,Vie,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Efectivo,12900,59.7,Nov 2024
+2024-11-08,Vie,16:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-08,Vie,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Nov 2024
+2024-11-08,Vie,13:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Nov 2024
+2024-11-08,Vie,21:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Nov 2024
+2024-11-08,Vie,13:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-08,Vie,18:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-08,Vie,13:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Nov 2024
+2024-11-08,Vie,20:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Crédito,7300,58.4,Nov 2024
+2024-11-08,Vie,21:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Nov 2024
+2024-11-08,Vie,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Nov 2024
+2024-11-09,Sáb,15:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Nov 2024
+2024-11-09,Sáb,22:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Nov 2024
+2024-11-09,Sáb,15:00,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Nov 2024
+2024-11-09,Sáb,19:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-09,Sáb,20:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Nov 2024
+2024-11-09,Sáb,12:00,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Nov 2024
+2024-11-09,Sáb,20:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Nov 2024
+2024-11-09,Sáb,16:00,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Nov 2024
+2024-11-09,Sáb,21:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Nov 2024
+2024-11-09,Sáb,22:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Nov 2024
+2024-11-09,Sáb,19:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-09,Sáb,13:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-09,Sáb,12:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Crédito,3600,62.1,Nov 2024
+2024-11-09,Sáb,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Nov 2024
+2024-11-09,Sáb,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Nov 2024
+2024-11-09,Sáb,22:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Nov 2024
+2024-11-09,Sáb,21:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-09,Sáb,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Nov 2024
+2024-11-09,Sáb,12:30,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Nov 2024
+2024-11-10,Dom,21:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Nov 2024
+2024-11-10,Dom,20:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Nov 2024
+2024-11-10,Dom,21:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Nov 2024
+2024-11-10,Dom,15:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Nov 2024
+2024-11-10,Dom,19:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-10,Dom,12:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Nov 2024
+2024-11-10,Dom,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-10,Dom,13:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Crédito,4300,59.7,Nov 2024
+2024-11-10,Dom,14:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Nov 2024
+2024-11-10,Dom,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Crédito,12900,59.7,Nov 2024
+2024-11-10,Dom,13:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Nov 2024
+2024-11-10,Dom,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Nov 2024
+2024-11-10,Dom,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Nov 2024
+2024-11-10,Dom,21:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Nov 2024
+2024-11-10,Dom,12:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-10,Dom,12:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-10,Dom,14:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-10,Dom,16:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Nov 2024
+2024-11-10,Dom,16:00,Postres,Kuchen de murta,1,2800,900,2800,900,Crédito,1900,67.9,Nov 2024
+2024-11-10,Dom,20:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-10,Dom,22:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-10,Dom,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Nov 2024
+2024-11-11,Lun,13:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Nov 2024
+2024-11-11,Lun,12:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Crédito,3700,56.9,Nov 2024
+2024-11-11,Lun,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Nov 2024
+2024-11-11,Lun,12:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Nov 2024
+2024-11-11,Lun,19:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Nov 2024
+2024-11-11,Lun,18:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Nov 2024
+2024-11-11,Lun,18:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Efectivo,3800,67.9,Nov 2024
+2024-11-11,Lun,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Nov 2024
+2024-11-11,Lun,14:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Nov 2024
+2024-11-11,Lun,22:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Nov 2024
+2024-11-11,Lun,13:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Nov 2024
+2024-11-12,Mar,20:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-12,Mar,22:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Nov 2024
+2024-11-12,Mar,17:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Efectivo,3200,72.7,Nov 2024
+2024-11-12,Mar,20:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Nov 2024
+2024-11-12,Mar,20:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Nov 2024
+2024-11-12,Mar,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Nov 2024
+2024-11-12,Mar,12:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Crédito,4800,72.7,Nov 2024
+2024-11-12,Mar,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Nov 2024
+2024-11-12,Mar,21:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Nov 2024
+2024-11-12,Mar,21:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Crédito,8100,71.1,Nov 2024
+2024-11-12,Mar,20:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Nov 2024
+2024-11-13,Mié,12:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-13,Mié,13:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-13,Mié,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Nov 2024
+2024-11-13,Mié,14:00,Postres,Leche asada,3,2200,700,6600,2100,Crédito,4500,68.2,Nov 2024
+2024-11-13,Mié,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-13,Mié,21:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Nov 2024
+2024-11-13,Mié,22:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-13,Mié,21:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Nov 2024
+2024-11-13,Mié,13:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-14,Jue,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Nov 2024
+2024-11-14,Jue,19:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-14,Jue,15:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Nov 2024
+2024-11-14,Jue,13:00,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Nov 2024
+2024-11-14,Jue,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-14,Jue,17:30,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Nov 2024
+2024-11-14,Jue,14:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Nov 2024
+2024-11-14,Jue,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-14,Jue,18:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Nov 2024
+2024-11-14,Jue,21:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Crédito,2900,64.4,Nov 2024
+2024-11-15,Vie,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Nov 2024
+2024-11-15,Vie,21:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Nov 2024
+2024-11-15,Vie,20:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Crédito,8700,64.4,Nov 2024
+2024-11-15,Vie,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-15,Vie,14:30,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Nov 2024
+2024-11-15,Vie,20:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Nov 2024
+2024-11-15,Vie,20:30,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Nov 2024
+2024-11-15,Vie,12:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Nov 2024
+2024-11-15,Vie,14:00,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Nov 2024
+2024-11-15,Vie,13:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Nov 2024
+2024-11-15,Vie,12:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Nov 2024
+2024-11-15,Vie,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-15,Vie,16:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-15,Vie,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Nov 2024
+2024-11-15,Vie,13:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Nov 2024
+2024-11-15,Vie,19:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Nov 2024
+2024-11-15,Vie,14:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Nov 2024
+2024-11-15,Vie,15:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Crédito,5400,71.1,Nov 2024
+2024-11-15,Vie,22:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Nov 2024
+2024-11-15,Vie,19:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Crédito,2900,64.4,Nov 2024
+2024-11-15,Vie,14:00,Bebidas,Agua mineral,1,1200,350,1200,350,Crédito,850,70.8,Nov 2024
+2024-11-16,Sáb,13:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Débito,11100,56.9,Nov 2024
+2024-11-16,Sáb,14:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Nov 2024
+2024-11-16,Sáb,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Nov 2024
+2024-11-16,Sáb,21:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Nov 2024
+2024-11-16,Sáb,21:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Nov 2024
+2024-11-16,Sáb,14:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Nov 2024
+2024-11-16,Sáb,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Nov 2024
+2024-11-16,Sáb,19:30,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Nov 2024
+2024-11-16,Sáb,20:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-16,Sáb,20:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Nov 2024
+2024-11-16,Sáb,21:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Nov 2024
+2024-11-16,Sáb,21:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Nov 2024
+2024-11-16,Sáb,13:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Nov 2024
+2024-11-16,Sáb,19:30,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Nov 2024
+2024-11-16,Sáb,22:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Nov 2024
+2024-11-16,Sáb,22:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-16,Sáb,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-16,Sáb,14:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Nov 2024
+2024-11-16,Sáb,12:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Nov 2024
+2024-11-16,Sáb,20:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Nov 2024
+2024-11-17,Dom,13:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Nov 2024
+2024-11-17,Dom,19:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Nov 2024
+2024-11-17,Dom,21:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Nov 2024
+2024-11-17,Dom,13:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Nov 2024
+2024-11-17,Dom,14:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Nov 2024
+2024-11-17,Dom,15:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-17,Dom,14:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Crédito,7400,56.9,Nov 2024
+2024-11-17,Dom,14:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Nov 2024
+2024-11-17,Dom,21:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Nov 2024
+2024-11-17,Dom,16:00,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Nov 2024
+2024-11-17,Dom,21:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Nov 2024
+2024-11-17,Dom,22:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Nov 2024
+2024-11-17,Dom,16:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Efectivo,8100,71.1,Nov 2024
+2024-11-17,Dom,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Nov 2024
+2024-11-17,Dom,21:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Nov 2024
+2024-11-17,Dom,12:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Nov 2024
+2024-11-17,Dom,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-17,Dom,21:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Nov 2024
+2024-11-17,Dom,14:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Nov 2024
+2024-11-17,Dom,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Nov 2024
+2024-11-17,Dom,20:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Efectivo,14600,58.4,Nov 2024
+2024-11-17,Dom,14:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Nov 2024
+2024-11-17,Dom,14:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Nov 2024
+2024-11-17,Dom,20:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Nov 2024
+2024-11-18,Lun,21:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Nov 2024
+2024-11-18,Lun,12:00,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Nov 2024
+2024-11-18,Lun,13:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Nov 2024
+2024-11-18,Lun,12:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-18,Lun,19:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Crédito,5400,71.1,Nov 2024
+2024-11-18,Lun,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Nov 2024
+2024-11-18,Lun,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Nov 2024
+2024-11-18,Lun,12:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Nov 2024
+2024-11-18,Lun,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Nov 2024
+2024-11-18,Lun,22:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Nov 2024
+2024-11-18,Lun,14:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Crédito,4300,59.7,Nov 2024
+2024-11-18,Lun,15:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Nov 2024
+2024-11-18,Lun,15:00,Postres,Leche asada,3,2200,700,6600,2100,Crédito,4500,68.2,Nov 2024
+2024-11-19,Mar,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-19,Mar,12:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Nov 2024
+2024-11-19,Mar,20:30,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Nov 2024
+2024-11-19,Mar,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Nov 2024
+2024-11-19,Mar,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Nov 2024
+2024-11-19,Mar,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-19,Mar,13:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Crédito,7200,62.1,Nov 2024
+2024-11-19,Mar,19:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Efectivo,21900,58.4,Nov 2024
+2024-11-19,Mar,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Nov 2024
+2024-11-19,Mar,14:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-19,Mar,14:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Nov 2024
+2024-11-19,Mar,14:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Nov 2024
+2024-11-20,Mié,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Nov 2024
+2024-11-20,Mié,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-20,Mié,20:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Nov 2024
+2024-11-20,Mié,12:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Nov 2024
+2024-11-20,Mié,17:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Nov 2024
+2024-11-20,Mié,12:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Crédito,3600,62.1,Nov 2024
+2024-11-20,Mié,13:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-20,Mié,16:30,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Nov 2024
+2024-11-20,Mié,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Nov 2024
+2024-11-20,Mié,22:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Crédito,6700,62.0,Nov 2024
+2024-11-21,Jue,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Nov 2024
+2024-11-21,Jue,21:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Nov 2024
+2024-11-21,Jue,20:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Nov 2024
+2024-11-21,Jue,16:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Nov 2024
+2024-11-21,Jue,20:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-21,Jue,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Crédito,7400,56.9,Nov 2024
+2024-11-21,Jue,21:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Nov 2024
+2024-11-21,Jue,19:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Nov 2024
+2024-11-22,Vie,22:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Nov 2024
+2024-11-22,Vie,19:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Nov 2024
+2024-11-22,Vie,20:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-22,Vie,13:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Nov 2024
+2024-11-22,Vie,20:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-22,Vie,14:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Nov 2024
+2024-11-22,Vie,13:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-22,Vie,19:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Nov 2024
+2024-11-22,Vie,20:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Nov 2024
+2024-11-22,Vie,19:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Nov 2024
+2024-11-22,Vie,13:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-22,Vie,14:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-22,Vie,22:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-22,Vie,22:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-22,Vie,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Nov 2024
+2024-11-22,Vie,21:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-22,Vie,19:00,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Nov 2024
+2024-11-22,Vie,12:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Crédito,8600,59.7,Nov 2024
+2024-11-22,Vie,21:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Crédito,7300,58.4,Nov 2024
+2024-11-23,Sáb,14:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Nov 2024
+2024-11-23,Sáb,12:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Nov 2024
+2024-11-23,Sáb,14:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Nov 2024
+2024-11-23,Sáb,14:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Nov 2024
+2024-11-23,Sáb,20:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Nov 2024
+2024-11-23,Sáb,12:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Nov 2024
+2024-11-23,Sáb,14:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Crédito,4800,72.7,Nov 2024
+2024-11-23,Sáb,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Nov 2024
+2024-11-23,Sáb,20:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Crédito,5800,64.4,Nov 2024
+2024-11-23,Sáb,22:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Nov 2024
+2024-11-23,Sáb,20:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Nov 2024
+2024-11-23,Sáb,20:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Nov 2024
+2024-11-23,Sáb,21:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Nov 2024
+2024-11-23,Sáb,14:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Nov 2024
+2024-11-23,Sáb,22:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Nov 2024
+2024-11-23,Sáb,16:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Nov 2024
+2024-11-23,Sáb,13:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-23,Sáb,13:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Nov 2024
+2024-11-23,Sáb,12:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Nov 2024
+2024-11-23,Sáb,13:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-23,Sáb,20:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-23,Sáb,20:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-23,Sáb,22:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-23,Sáb,12:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Nov 2024
+2024-11-23,Sáb,19:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-24,Dom,20:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Crédito,8100,71.1,Nov 2024
+2024-11-24,Dom,22:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Efectivo,21900,58.4,Nov 2024
+2024-11-24,Dom,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Nov 2024
+2024-11-24,Dom,21:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Nov 2024
+2024-11-24,Dom,19:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Nov 2024
+2024-11-24,Dom,12:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Nov 2024
+2024-11-24,Dom,21:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-24,Dom,17:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Nov 2024
+2024-11-24,Dom,12:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Efectivo,12900,59.7,Nov 2024
+2024-11-24,Dom,20:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Nov 2024
+2024-11-24,Dom,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Nov 2024
+2024-11-24,Dom,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Crédito,12900,59.7,Nov 2024
+2024-11-24,Dom,12:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-24,Dom,14:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Nov 2024
+2024-11-24,Dom,22:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Nov 2024
+2024-11-24,Dom,16:00,Postres,Leche asada,3,2200,700,6600,2100,Crédito,4500,68.2,Nov 2024
+2024-11-24,Dom,22:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Nov 2024
+2024-11-24,Dom,15:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Nov 2024
+2024-11-24,Dom,12:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-24,Dom,22:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-24,Dom,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Nov 2024
+2024-11-24,Dom,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Nov 2024
+2024-11-24,Dom,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Nov 2024
+2024-11-25,Lun,13:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-25,Lun,22:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Nov 2024
+2024-11-25,Lun,19:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-25,Lun,14:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Nov 2024
+2024-11-25,Lun,19:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Nov 2024
+2024-11-25,Lun,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Nov 2024
+2024-11-25,Lun,12:30,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Nov 2024
+2024-11-25,Lun,14:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Nov 2024
+2024-11-25,Lun,14:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Nov 2024
+2024-11-25,Lun,22:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Nov 2024
+2024-11-25,Lun,14:00,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Nov 2024
+2024-11-25,Lun,18:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Nov 2024
+2024-11-26,Mar,13:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Nov 2024
+2024-11-26,Mar,16:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Nov 2024
+2024-11-26,Mar,12:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-26,Mar,19:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Nov 2024
+2024-11-26,Mar,19:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Nov 2024
+2024-11-26,Mar,15:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-26,Mar,13:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Nov 2024
+2024-11-26,Mar,16:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Nov 2024
+2024-11-26,Mar,22:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Nov 2024
+2024-11-26,Mar,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Crédito,8600,59.7,Nov 2024
+2024-11-26,Mar,14:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Nov 2024
+2024-11-26,Mar,21:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-26,Mar,21:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Nov 2024
+2024-11-27,Mié,15:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Crédito,4800,72.7,Nov 2024
+2024-11-27,Mié,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Crédito,3600,62.1,Nov 2024
+2024-11-27,Mié,12:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Nov 2024
+2024-11-27,Mié,14:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Crédito,11100,56.9,Nov 2024
+2024-11-27,Mié,19:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-27,Mié,16:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Nov 2024
+2024-11-27,Mié,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-27,Mié,14:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Efectivo,12900,59.7,Nov 2024
+2024-11-27,Mié,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-27,Mié,19:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Nov 2024
+2024-11-28,Jue,20:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-28,Jue,22:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Nov 2024
+2024-11-28,Jue,14:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-28,Jue,22:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Nov 2024
+2024-11-28,Jue,21:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-28,Jue,19:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Nov 2024
+2024-11-28,Jue,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Crédito,8600,59.7,Nov 2024
+2024-11-28,Jue,22:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Nov 2024
+2024-11-28,Jue,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Nov 2024
+2024-11-28,Jue,16:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Nov 2024
+2024-11-28,Jue,19:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Nov 2024
+2024-11-28,Jue,13:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Nov 2024
+2024-11-29,Vie,14:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Nov 2024
+2024-11-29,Vie,14:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Nov 2024
+2024-11-29,Vie,14:00,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Nov 2024
+2024-11-29,Vie,14:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Nov 2024
+2024-11-29,Vie,12:30,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Nov 2024
+2024-11-29,Vie,19:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Nov 2024
+2024-11-29,Vie,20:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Nov 2024
+2024-11-29,Vie,20:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Nov 2024
+2024-11-29,Vie,12:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Nov 2024
+2024-11-29,Vie,12:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Nov 2024
+2024-11-29,Vie,13:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Nov 2024
+2024-11-29,Vie,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-29,Vie,20:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-29,Vie,18:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Nov 2024
+2024-11-29,Vie,20:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Nov 2024
+2024-11-29,Vie,21:00,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Nov 2024
+2024-11-29,Vie,15:00,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Nov 2024
+2024-11-29,Vie,18:30,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Nov 2024
+2024-11-29,Vie,12:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Nov 2024
+2024-11-29,Vie,15:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Nov 2024
+2024-11-29,Vie,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Nov 2024
+2024-11-30,Sáb,17:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Nov 2024
+2024-11-30,Sáb,13:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Nov 2024
+2024-11-30,Sáb,19:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Nov 2024
+2024-11-30,Sáb,18:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Nov 2024
+2024-11-30,Sáb,13:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Nov 2024
+2024-11-30,Sáb,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-30,Sáb,12:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Nov 2024
+2024-11-30,Sáb,18:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Nov 2024
+2024-11-30,Sáb,19:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Nov 2024
+2024-11-30,Sáb,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Nov 2024
+2024-11-30,Sáb,12:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Nov 2024
+2024-11-30,Sáb,16:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Nov 2024
+2024-11-30,Sáb,20:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Nov 2024
+2024-11-30,Sáb,13:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Nov 2024
+2024-11-30,Sáb,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Nov 2024
+2024-11-30,Sáb,22:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Nov 2024
+2024-11-30,Sáb,13:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Nov 2024
+2024-11-30,Sáb,21:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Crédito,3200,72.7,Nov 2024
+2024-11-30,Sáb,20:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Nov 2024
+2024-11-30,Sáb,12:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Nov 2024
+2024-11-30,Sáb,14:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Nov 2024
+2024-11-30,Sáb,14:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Nov 2024
+2024-11-30,Sáb,16:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Nov 2024
+2024-11-30,Sáb,13:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Nov 2024
+2024-12-01,Dom,13:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Dec 2024
+2024-12-01,Dom,14:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Dec 2024
+2024-12-01,Dom,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Dec 2024
+2024-12-01,Dom,21:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Crédito,8700,64.4,Dec 2024
+2024-12-01,Dom,17:30,Bebidas,Agua mineral,1,1200,350,1200,350,Crédito,850,70.8,Dec 2024
+2024-12-01,Dom,20:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Dec 2024
+2024-12-01,Dom,14:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Dec 2024
+2024-12-01,Dom,12:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-01,Dom,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Dec 2024
+2024-12-01,Dom,12:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-01,Dom,21:30,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Dec 2024
+2024-12-01,Dom,16:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-01,Dom,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Dec 2024
+2024-12-01,Dom,14:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Crédito,7400,56.9,Dec 2024
+2024-12-01,Dom,13:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-01,Dom,19:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Dec 2024
+2024-12-01,Dom,13:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Dec 2024
+2024-12-01,Dom,20:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Dec 2024
+2024-12-02,Lun,20:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Dec 2024
+2024-12-02,Lun,17:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Dec 2024
+2024-12-02,Lun,14:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-02,Lun,14:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Dec 2024
+2024-12-02,Lun,20:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Dec 2024
+2024-12-02,Lun,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Dec 2024
+2024-12-02,Lun,20:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Dec 2024
+2024-12-02,Lun,21:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Efectivo,3200,72.7,Dec 2024
+2024-12-02,Lun,12:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Dec 2024
+2024-12-02,Lun,13:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Dec 2024
+2024-12-02,Lun,21:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Dec 2024
+2024-12-02,Lun,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-02,Lun,20:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Dec 2024
+2024-12-03,Mar,19:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Dec 2024
+2024-12-03,Mar,22:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Dec 2024
+2024-12-03,Mar,22:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Dec 2024
+2024-12-03,Mar,20:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-03,Mar,16:30,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Dec 2024
+2024-12-03,Mar,22:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Dec 2024
+2024-12-03,Mar,12:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Dec 2024
+2024-12-03,Mar,13:00,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Dec 2024
+2024-12-03,Mar,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Dec 2024
+2024-12-03,Mar,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Dec 2024
+2024-12-03,Mar,14:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Dec 2024
+2024-12-03,Mar,16:30,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Dec 2024
+2024-12-03,Mar,14:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-03,Mar,22:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Dec 2024
+2024-12-03,Mar,19:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Dec 2024
+2024-12-04,Mié,22:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Dec 2024
+2024-12-04,Mié,16:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-04,Mié,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Dec 2024
+2024-12-04,Mié,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Dec 2024
+2024-12-04,Mié,13:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Dec 2024
+2024-12-04,Mié,19:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Dec 2024
+2024-12-04,Mié,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Dec 2024
+2024-12-04,Mié,13:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Dec 2024
+2024-12-04,Mié,22:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Dec 2024
+2024-12-04,Mié,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-04,Mié,22:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Dec 2024
+2024-12-04,Mié,16:30,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Dec 2024
+2024-12-04,Mié,12:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Dec 2024
+2024-12-04,Mié,19:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Dec 2024
+2024-12-04,Mié,13:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Dec 2024
+2024-12-05,Jue,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Dec 2024
+2024-12-05,Jue,12:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Dec 2024
+2024-12-05,Jue,15:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Dec 2024
+2024-12-05,Jue,17:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-05,Jue,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Dec 2024
+2024-12-05,Jue,19:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Efectivo,2900,64.4,Dec 2024
+2024-12-05,Jue,22:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Crédito,7300,58.4,Dec 2024
+2024-12-05,Jue,15:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Dec 2024
+2024-12-06,Vie,13:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Dec 2024
+2024-12-06,Vie,13:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Crédito,12900,59.7,Dec 2024
+2024-12-06,Vie,20:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Dec 2024
+2024-12-06,Vie,13:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-06,Vie,13:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Efectivo,12900,59.7,Dec 2024
+2024-12-06,Vie,12:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Dec 2024
+2024-12-06,Vie,19:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Dec 2024
+2024-12-06,Vie,14:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Débito,11100,56.9,Dec 2024
+2024-12-06,Vie,19:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Dec 2024
+2024-12-06,Vie,21:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Dec 2024
+2024-12-06,Vie,20:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Dec 2024
+2024-12-06,Vie,21:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Dec 2024
+2024-12-06,Vie,18:30,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Dec 2024
+2024-12-06,Vie,13:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Dec 2024
+2024-12-06,Vie,19:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Dec 2024
+2024-12-06,Vie,21:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Dec 2024
+2024-12-06,Vie,20:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-06,Vie,16:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-07,Sáb,20:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Dec 2024
+2024-12-07,Sáb,14:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Dec 2024
+2024-12-07,Sáb,13:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Dec 2024
+2024-12-07,Sáb,20:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Dec 2024
+2024-12-07,Sáb,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Dec 2024
+2024-12-07,Sáb,12:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Crédito,3600,62.1,Dec 2024
+2024-12-07,Sáb,12:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Efectivo,4300,59.7,Dec 2024
+2024-12-07,Sáb,22:30,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Dec 2024
+2024-12-07,Sáb,21:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-07,Sáb,13:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-07,Sáb,13:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Dec 2024
+2024-12-07,Sáb,21:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Dec 2024
+2024-12-07,Sáb,14:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Dec 2024
+2024-12-07,Sáb,14:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-07,Sáb,18:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-07,Sáb,14:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Dec 2024
+2024-12-07,Sáb,19:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Dec 2024
+2024-12-07,Sáb,18:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Dec 2024
+2024-12-08,Dom,17:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Crédito,4800,72.7,Dec 2024
+2024-12-08,Dom,17:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Dec 2024
+2024-12-08,Dom,21:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Dec 2024
+2024-12-08,Dom,17:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-08,Dom,21:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Dec 2024
+2024-12-08,Dom,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Dec 2024
+2024-12-08,Dom,14:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-08,Dom,12:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-08,Dom,16:00,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Dec 2024
+2024-12-08,Dom,20:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-08,Dom,15:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Crédito,5400,71.1,Dec 2024
+2024-12-08,Dom,14:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Dec 2024
+2024-12-08,Dom,13:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Dec 2024
+2024-12-08,Dom,21:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-08,Dom,14:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Dec 2024
+2024-12-08,Dom,21:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Dec 2024
+2024-12-08,Dom,12:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-08,Dom,19:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Dec 2024
+2024-12-08,Dom,21:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-08,Dom,12:00,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Dec 2024
+2024-12-08,Dom,22:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Dec 2024
+2024-12-08,Dom,20:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Dec 2024
+2024-12-08,Dom,12:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Dec 2024
+2024-12-08,Dom,18:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-09,Lun,18:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-09,Lun,20:00,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Dec 2024
+2024-12-09,Lun,21:00,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Dec 2024
+2024-12-09,Lun,21:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Dec 2024
+2024-12-09,Lun,22:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Dec 2024
+2024-12-09,Lun,22:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Dec 2024
+2024-12-09,Lun,12:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-09,Lun,12:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Crédito,3600,62.1,Dec 2024
+2024-12-09,Lun,13:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Dec 2024
+2024-12-09,Lun,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Dec 2024
+2024-12-09,Lun,14:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-10,Mar,19:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Dec 2024
+2024-12-10,Mar,13:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Dec 2024
+2024-12-10,Mar,20:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Dec 2024
+2024-12-10,Mar,12:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Efectivo,11100,56.9,Dec 2024
+2024-12-10,Mar,17:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Dec 2024
+2024-12-10,Mar,18:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Dec 2024
+2024-12-10,Mar,13:30,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Dec 2024
+2024-12-10,Mar,13:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-10,Mar,20:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Dec 2024
+2024-12-10,Mar,16:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-10,Mar,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-10,Mar,16:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Dec 2024
+2024-12-11,Mié,16:30,Postres,Kuchen de murta,1,2800,900,2800,900,Crédito,1900,67.9,Dec 2024
+2024-12-11,Mié,20:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Dec 2024
+2024-12-11,Mié,14:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Dec 2024
+2024-12-11,Mié,21:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Efectivo,3800,67.9,Dec 2024
+2024-12-11,Mié,13:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-11,Mié,14:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Dec 2024
+2024-12-11,Mié,22:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-11,Mié,20:00,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Dec 2024
+2024-12-12,Jue,21:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Efectivo,3800,67.9,Dec 2024
+2024-12-12,Jue,13:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Crédito,3200,72.7,Dec 2024
+2024-12-12,Jue,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Dec 2024
+2024-12-12,Jue,22:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Dec 2024
+2024-12-12,Jue,16:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Dec 2024
+2024-12-12,Jue,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-12,Jue,14:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-12,Jue,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Dec 2024
+2024-12-12,Jue,19:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Crédito,2700,71.1,Dec 2024
+2024-12-12,Jue,19:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Dec 2024
+2024-12-13,Vie,19:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Dec 2024
+2024-12-13,Vie,15:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Dec 2024
+2024-12-13,Vie,21:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-13,Vie,15:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Dec 2024
+2024-12-13,Vie,18:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Dec 2024
+2024-12-13,Vie,21:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Dec 2024
+2024-12-13,Vie,12:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-13,Vie,12:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-13,Vie,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Dec 2024
+2024-12-13,Vie,21:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Dec 2024
+2024-12-13,Vie,12:00,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Crédito,5400,71.1,Dec 2024
+2024-12-13,Vie,13:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Dec 2024
+2024-12-13,Vie,20:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Dec 2024
+2024-12-13,Vie,12:00,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Dec 2024
+2024-12-13,Vie,15:30,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Dec 2024
+2024-12-13,Vie,22:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-13,Vie,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-13,Vie,18:00,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-14,Sáb,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Crédito,5400,60.7,Dec 2024
+2024-12-14,Sáb,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Dec 2024
+2024-12-14,Sáb,19:30,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Dec 2024
+2024-12-14,Sáb,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-14,Sáb,13:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Dec 2024
+2024-12-14,Sáb,14:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Dec 2024
+2024-12-14,Sáb,19:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Dec 2024
+2024-12-14,Sáb,21:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Crédito,2700,71.1,Dec 2024
+2024-12-14,Sáb,20:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Dec 2024
+2024-12-14,Sáb,17:00,Postres,Kuchen de murta,1,2800,900,2800,900,Crédito,1900,67.9,Dec 2024
+2024-12-14,Sáb,21:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Dec 2024
+2024-12-14,Sáb,12:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Efectivo,3700,56.9,Dec 2024
+2024-12-14,Sáb,20:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Dec 2024
+2024-12-14,Sáb,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Dec 2024
+2024-12-14,Sáb,19:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Dec 2024
+2024-12-14,Sáb,14:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Dec 2024
+2024-12-14,Sáb,22:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Efectivo,20100,62.0,Dec 2024
+2024-12-14,Sáb,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Dec 2024
+2024-12-15,Dom,21:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Dec 2024
+2024-12-15,Dom,17:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Dec 2024
+2024-12-15,Dom,22:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Crédito,3200,72.7,Dec 2024
+2024-12-15,Dom,15:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Efectivo,2700,71.1,Dec 2024
+2024-12-15,Dom,13:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Crédito,11100,56.9,Dec 2024
+2024-12-15,Dom,18:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-15,Dom,22:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-15,Dom,16:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Dec 2024
+2024-12-15,Dom,20:30,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Dec 2024
+2024-12-15,Dom,21:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Dec 2024
+2024-12-15,Dom,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Crédito,7400,56.9,Dec 2024
+2024-12-15,Dom,19:30,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Dec 2024
+2024-12-15,Dom,14:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Dec 2024
+2024-12-15,Dom,18:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Dec 2024
+2024-12-15,Dom,22:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-15,Dom,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Dec 2024
+2024-12-15,Dom,13:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Dec 2024
+2024-12-15,Dom,20:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Dec 2024
+2024-12-15,Dom,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Dec 2024
+2024-12-15,Dom,19:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Dec 2024
+2024-12-15,Dom,13:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Dec 2024
+2024-12-15,Dom,20:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Dec 2024
+2024-12-16,Lun,13:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Crédito,7200,62.1,Dec 2024
+2024-12-16,Lun,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Dec 2024
+2024-12-16,Lun,16:30,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-16,Lun,14:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Dec 2024
+2024-12-16,Lun,18:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Dec 2024
+2024-12-16,Lun,14:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Dec 2024
+2024-12-16,Lun,12:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Dec 2024
+2024-12-16,Lun,20:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Dec 2024
+2024-12-16,Lun,21:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Efectivo,21900,58.4,Dec 2024
+2024-12-16,Lun,12:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Dec 2024
+2024-12-16,Lun,20:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-17,Mar,20:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Efectivo,21900,58.4,Dec 2024
+2024-12-17,Mar,13:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-17,Mar,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Dec 2024
+2024-12-17,Mar,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Dec 2024
+2024-12-17,Mar,21:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-17,Mar,20:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-17,Mar,14:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Dec 2024
+2024-12-17,Mar,22:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Efectivo,3800,67.9,Dec 2024
+2024-12-17,Mar,12:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Dec 2024
+2024-12-17,Mar,22:30,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Dec 2024
+2024-12-17,Mar,12:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Dec 2024
+2024-12-17,Mar,14:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Dec 2024
+2024-12-17,Mar,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Crédito,10800,60.7,Dec 2024
+2024-12-18,Mié,19:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Dec 2024
+2024-12-18,Mié,18:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Efectivo,8100,71.1,Dec 2024
+2024-12-18,Mié,13:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Dec 2024
+2024-12-18,Mié,21:30,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Dec 2024
+2024-12-18,Mié,20:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Dec 2024
+2024-12-18,Mié,21:30,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Dec 2024
+2024-12-18,Mié,17:00,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Dec 2024
+2024-12-18,Mié,19:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Crédito,8700,64.4,Dec 2024
+2024-12-18,Mié,21:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Dec 2024
+2024-12-19,Jue,12:00,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-19,Jue,20:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Dec 2024
+2024-12-19,Jue,15:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Dec 2024
+2024-12-19,Jue,21:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Crédito,21900,58.4,Dec 2024
+2024-12-19,Jue,19:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Crédito,20100,62.0,Dec 2024
+2024-12-19,Jue,20:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Dec 2024
+2024-12-19,Jue,12:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Dec 2024
+2024-12-19,Jue,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Dec 2024
+2024-12-19,Jue,21:30,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-20,Vie,22:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Efectivo,8700,64.4,Dec 2024
+2024-12-20,Vie,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Dec 2024
+2024-12-20,Vie,22:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Crédito,13400,62.0,Dec 2024
+2024-12-20,Vie,14:00,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Dec 2024
+2024-12-20,Vie,12:30,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Débito,11100,56.9,Dec 2024
+2024-12-20,Vie,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Crédito,16200,60.7,Dec 2024
+2024-12-20,Vie,21:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Dec 2024
+2024-12-20,Vie,18:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-20,Vie,13:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-20,Vie,15:30,Postres,Leche asada,2,2200,700,4400,1400,Crédito,3000,68.2,Dec 2024
+2024-12-20,Vie,17:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-20,Vie,17:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-20,Vie,13:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-20,Vie,22:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Crédito,21900,58.4,Dec 2024
+2024-12-20,Vie,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-20,Vie,13:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Efectivo,5700,67.9,Dec 2024
+2024-12-20,Vie,19:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-20,Vie,21:30,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Dec 2024
+2024-12-20,Vie,21:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Dec 2024
+2024-12-20,Vie,16:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-20,Vie,14:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Crédito,8100,71.1,Dec 2024
+2024-12-20,Vie,21:00,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Dec 2024
+2024-12-20,Vie,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Dec 2024
+2024-12-20,Vie,16:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Dec 2024
+2024-12-21,Sáb,14:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Dec 2024
+2024-12-21,Sáb,13:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Dec 2024
+2024-12-21,Sáb,12:30,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Dec 2024
+2024-12-21,Sáb,14:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Débito,5400,71.1,Dec 2024
+2024-12-21,Sáb,14:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Dec 2024
+2024-12-21,Sáb,14:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-21,Sáb,12:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Dec 2024
+2024-12-21,Sáb,22:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Dec 2024
+2024-12-21,Sáb,22:30,Cena,Empanadas (3 und.),1,4500,1600,4500,1600,Débito,2900,64.4,Dec 2024
+2024-12-21,Sáb,19:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Dec 2024
+2024-12-21,Sáb,19:00,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Dec 2024
+2024-12-21,Sáb,21:30,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Efectivo,5800,64.4,Dec 2024
+2024-12-21,Sáb,13:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Dec 2024
+2024-12-21,Sáb,15:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-21,Sáb,14:30,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Dec 2024
+2024-12-21,Sáb,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Dec 2024
+2024-12-21,Sáb,14:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Dec 2024
+2024-12-21,Sáb,21:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Efectivo,7300,58.4,Dec 2024
+2024-12-21,Sáb,12:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-22,Dom,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Dec 2024
+2024-12-22,Dom,21:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Dec 2024
+2024-12-22,Dom,21:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Crédito,21900,58.4,Dec 2024
+2024-12-22,Dom,19:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Dec 2024
+2024-12-22,Dom,17:30,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Dec 2024
+2024-12-22,Dom,19:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Dec 2024
+2024-12-22,Dom,13:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Débito,3700,56.9,Dec 2024
+2024-12-22,Dom,15:30,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Dec 2024
+2024-12-22,Dom,12:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Dec 2024
+2024-12-22,Dom,13:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Dec 2024
+2024-12-22,Dom,14:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Dec 2024
+2024-12-22,Dom,14:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Dec 2024
+2024-12-22,Dom,20:30,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Dec 2024
+2024-12-22,Dom,19:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-22,Dom,13:00,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Dec 2024
+2024-12-22,Dom,19:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-22,Dom,21:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Dec 2024
+2024-12-22,Dom,13:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Dec 2024
+2024-12-22,Dom,19:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-23,Lun,12:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Efectivo,4800,72.7,Dec 2024
+2024-12-23,Lun,18:00,Postres,Leche asada,3,2200,700,6600,2100,Débito,4500,68.2,Dec 2024
+2024-12-23,Lun,13:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Dec 2024
+2024-12-23,Lun,12:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Crédito,11100,56.9,Dec 2024
+2024-12-23,Lun,13:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-23,Lun,16:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Dec 2024
+2024-12-23,Lun,12:00,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Dec 2024
+2024-12-23,Lun,12:30,Postres,Leche asada,1,2200,700,2200,700,Efectivo,1500,68.2,Dec 2024
+2024-12-23,Lun,22:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Crédito,5700,67.9,Dec 2024
+2024-12-23,Lun,14:00,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Dec 2024
+2024-12-24,Mar,22:00,Bebidas,Agua mineral,2,1200,350,2400,700,Crédito,1700,70.8,Dec 2024
+2024-12-24,Mar,12:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Dec 2024
+2024-12-24,Mar,12:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Crédito,7400,56.9,Dec 2024
+2024-12-24,Mar,13:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Dec 2024
+2024-12-24,Mar,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-24,Mar,12:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Dec 2024
+2024-12-24,Mar,22:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Dec 2024
+2024-12-24,Mar,21:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Dec 2024
+2024-12-24,Mar,12:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Dec 2024
+2024-12-24,Mar,20:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Dec 2024
+2024-12-25,Mié,15:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Dec 2024
+2024-12-25,Mié,21:30,Postres,Kuchen de murta,1,2800,900,2800,900,Efectivo,1900,67.9,Dec 2024
+2024-12-25,Mié,13:00,Bebidas,Agua mineral,1,1200,350,1200,350,Efectivo,850,70.8,Dec 2024
+2024-12-25,Mié,14:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Dec 2024
+2024-12-25,Mié,14:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Dec 2024
+2024-12-25,Mié,19:30,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Dec 2024
+2024-12-25,Mié,12:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Débito,8100,71.1,Dec 2024
+2024-12-25,Mié,14:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Débito,7200,62.1,Dec 2024
+2024-12-25,Mié,15:00,Bebidas,Jugo natural,1,2200,600,2200,600,Crédito,1600,72.7,Dec 2024
+2024-12-25,Mié,14:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-26,Jue,22:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Efectivo,3800,67.9,Dec 2024
+2024-12-26,Jue,12:30,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Dec 2024
+2024-12-26,Jue,12:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Dec 2024
+2024-12-26,Jue,13:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Dec 2024
+2024-12-26,Jue,12:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Efectivo,2550,70.8,Dec 2024
+2024-12-26,Jue,14:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-26,Jue,12:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Débito,10800,62.1,Dec 2024
+2024-12-26,Jue,17:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-26,Jue,20:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Efectivo,13400,62.0,Dec 2024
+2024-12-26,Jue,14:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-26,Jue,12:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Dec 2024
+2024-12-26,Jue,20:00,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Dec 2024
+2024-12-26,Jue,21:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Dec 2024
+2024-12-26,Jue,17:30,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Dec 2024
+2024-12-26,Jue,14:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Dec 2024
+2024-12-27,Vie,18:00,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Dec 2024
+2024-12-27,Vie,20:00,Cena,Cordero patagónico,3,12500,5200,37500,15600,Crédito,21900,58.4,Dec 2024
+2024-12-27,Vie,12:30,Almuerzo,Merluza frita,3,7200,2900,21600,8700,Débito,12900,59.7,Dec 2024
+2024-12-27,Vie,14:30,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Efectivo,8600,59.7,Dec 2024
+2024-12-27,Vie,18:00,Postres,Leche asada,1,2200,700,2200,700,Débito,1500,68.2,Dec 2024
+2024-12-27,Vie,15:00,Bebidas,Cerveza artesanal,3,3800,1100,11400,3300,Crédito,8100,71.1,Dec 2024
+2024-12-27,Vie,19:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Débito,5800,64.4,Dec 2024
+2024-12-27,Vie,12:30,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Dec 2024
+2024-12-27,Vie,13:30,Postres,Leche asada,2,2200,700,4400,1400,Efectivo,3000,68.2,Dec 2024
+2024-12-27,Vie,12:30,Bebidas,Jugo natural,1,2200,600,2200,600,Efectivo,1600,72.7,Dec 2024
+2024-12-27,Vie,20:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Dec 2024
+2024-12-27,Vie,20:30,Cena,Cordero patagónico,3,12500,5200,37500,15600,Débito,21900,58.4,Dec 2024
+2024-12-27,Vie,13:30,Almuerzo,Cazuela de vacuno,1,6500,2800,6500,2800,Crédito,3700,56.9,Dec 2024
+2024-12-27,Vie,20:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Dec 2024
+2024-12-27,Vie,12:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Crédito,3800,67.9,Dec 2024
+2024-12-27,Vie,19:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-27,Vie,21:00,Postres,Leche asada,3,2200,700,6600,2100,Efectivo,4500,68.2,Dec 2024
+2024-12-27,Vie,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Dec 2024
+2024-12-27,Vie,22:00,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-27,Vie,20:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Dec 2024
+2024-12-27,Vie,12:30,Almuerzo,Merluza frita,1,7200,2900,7200,2900,Débito,4300,59.7,Dec 2024
+2024-12-27,Vie,19:00,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Dec 2024
+2024-12-27,Vie,21:30,Cena,Lomo a lo pobre,3,10800,4100,32400,12300,Débito,20100,62.0,Dec 2024
+2024-12-27,Vie,19:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Débito,14600,58.4,Dec 2024
+2024-12-27,Vie,20:00,Bebidas,Agua mineral,2,1200,350,2400,700,Débito,1700,70.8,Dec 2024
+2024-12-28,Sáb,21:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Crédito,2550,70.8,Dec 2024
+2024-12-28,Sáb,12:30,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Efectivo,3600,62.1,Dec 2024
+2024-12-28,Sáb,13:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Dec 2024
+2024-12-28,Sáb,14:00,Almuerzo,Pastel de choclo,2,5800,2200,11600,4400,Efectivo,7200,62.1,Dec 2024
+2024-12-28,Sáb,14:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Dec 2024
+2024-12-28,Sáb,20:00,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Dec 2024
+2024-12-28,Sáb,22:00,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Dec 2024
+2024-12-28,Sáb,12:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Dec 2024
+2024-12-28,Sáb,22:30,Postres,Kuchen de murta,2,2800,900,5600,1800,Débito,3800,67.9,Dec 2024
+2024-12-28,Sáb,20:30,Postres,Leche asada,2,2200,700,4400,1400,Débito,3000,68.2,Dec 2024
+2024-12-28,Sáb,13:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Dec 2024
+2024-12-28,Sáb,21:00,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Dec 2024
+2024-12-28,Sáb,14:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-28,Sáb,12:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Efectivo,5400,60.7,Dec 2024
+2024-12-28,Sáb,13:00,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Efectivo,7400,56.9,Dec 2024
+2024-12-28,Sáb,12:00,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-28,Sáb,20:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-28,Sáb,14:30,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Crédito,5400,60.7,Dec 2024
+2024-12-28,Sáb,22:00,Cena,Empanadas (3 und.),2,4500,1600,9000,3200,Crédito,5800,64.4,Dec 2024
+2024-12-28,Sáb,12:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Débito,16200,60.7,Dec 2024
+2024-12-28,Sáb,16:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-28,Sáb,17:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-29,Dom,14:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Dec 2024
+2024-12-29,Dom,15:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Efectivo,5400,71.1,Dec 2024
+2024-12-29,Dom,14:00,Almuerzo,Cazuela de vacuno,3,6500,2800,19500,8400,Débito,11100,56.9,Dec 2024
+2024-12-29,Dom,20:00,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Dec 2024
+2024-12-29,Dom,22:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-29,Dom,17:00,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-29,Dom,14:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Dec 2024
+2024-12-29,Dom,13:30,Almuerzo,Cazuela de vacuno,2,6500,2800,13000,5600,Débito,7400,56.9,Dec 2024
+2024-12-29,Dom,20:00,Bebidas,Agua mineral,1,1200,350,1200,350,Débito,850,70.8,Dec 2024
+2024-12-29,Dom,18:30,Bebidas,Agua mineral,2,1200,350,2400,700,Efectivo,1700,70.8,Dec 2024
+2024-12-29,Dom,18:30,Postres,Leche asada,1,2200,700,2200,700,Crédito,1500,68.2,Dec 2024
+2024-12-29,Dom,13:00,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
+2024-12-29,Dom,17:00,Bebidas,Jugo natural,3,2200,600,6600,1800,Débito,4800,72.7,Dec 2024
+2024-12-29,Dom,12:30,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Crédito,10800,62.1,Dec 2024
+2024-12-29,Dom,20:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Débito,8700,64.4,Dec 2024
+2024-12-29,Dom,12:00,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Efectivo,10800,60.7,Dec 2024
+2024-12-29,Dom,12:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-29,Dom,19:00,Bebidas,Jugo natural,1,2200,600,2200,600,Débito,1600,72.7,Dec 2024
+2024-12-30,Lun,21:30,Cena,Cordero patagónico,1,12500,5200,12500,5200,Débito,7300,58.4,Dec 2024
+2024-12-30,Lun,22:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Dec 2024
+2024-12-30,Lun,15:00,Postres,Kuchen de murta,1,2800,900,2800,900,Débito,1900,67.9,Dec 2024
+2024-12-30,Lun,13:30,Bebidas,Agua mineral,3,1200,350,3600,1050,Débito,2550,70.8,Dec 2024
+2024-12-30,Lun,21:30,Cena,Empanadas (3 und.),3,4500,1600,13500,4800,Crédito,8700,64.4,Dec 2024
+2024-12-30,Lun,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Débito,6700,62.0,Dec 2024
+2024-12-30,Lun,13:30,Almuerzo,Plateada al horno,3,8900,3500,26700,10500,Efectivo,16200,60.7,Dec 2024
+2024-12-30,Lun,12:30,Almuerzo,Plateada al horno,2,8900,3500,17800,7000,Débito,10800,60.7,Dec 2024
+2024-12-30,Lun,19:30,Cena,Lomo a lo pobre,2,10800,4100,21600,8200,Débito,13400,62.0,Dec 2024
+2024-12-30,Lun,14:00,Almuerzo,Pastel de choclo,3,5800,2200,17400,6600,Efectivo,10800,62.1,Dec 2024
+2024-12-31,Mar,14:30,Bebidas,Cerveza artesanal,2,3800,1100,7600,2200,Crédito,5400,71.1,Dec 2024
+2024-12-31,Mar,16:30,Postres,Kuchen de murta,3,2800,900,8400,2700,Débito,5700,67.9,Dec 2024
+2024-12-31,Mar,19:30,Cena,Lomo a lo pobre,1,10800,4100,10800,4100,Efectivo,6700,62.0,Dec 2024
+2024-12-31,Mar,16:30,Bebidas,Jugo natural,2,2200,600,4400,1200,Débito,3200,72.7,Dec 2024
+2024-12-31,Mar,12:00,Almuerzo,Plateada al horno,1,8900,3500,8900,3500,Débito,5400,60.7,Dec 2024
+2024-12-31,Mar,14:00,Almuerzo,Merluza frita,2,7200,2900,14400,5800,Débito,8600,59.7,Dec 2024
+2024-12-31,Mar,12:00,Almuerzo,Pastel de choclo,1,5800,2200,5800,2200,Débito,3600,62.1,Dec 2024
+2024-12-31,Mar,21:00,Cena,Cordero patagónico,2,12500,5200,25000,10400,Crédito,14600,58.4,Dec 2024
+2024-12-31,Mar,20:30,Bebidas,Cerveza artesanal,1,3800,1100,3800,1100,Débito,2700,71.1,Dec 2024
