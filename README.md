@@ -2,7 +2,7 @@
 
 **Análisis de ventas y rentabilidad para restaurante chileno | Python + Looker Studio**
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulinacarvacho/dashboard-gastronomia-chile/blob/main/fogon_del_sur_analisis.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulinacarvacho/paulinacarvacho-dashboard-gastronomia-chile/blob/main/fogon_del_sur_analisis.ipynb)
 [![Dashboard en vivo](https://img.shields.io/badge/Dashboard-Looker%20Studio-blue?logo=google)](https://lookerstudio.google.com/reporting/94181ae3-0e70-40d7-a17e-33261079766c)
 
 ---
