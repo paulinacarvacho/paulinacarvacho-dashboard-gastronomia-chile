@@ -79,5 +79,5 @@ Este análisis es directamente aplicable a cualquier restaurante, cafetería o n
 **Paulina Carvacho Rubilar**
 Analista de Datos | Administración de Empresas + Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulina--carvacho-blue?logo=linkedin)](https://linkedin.com/in/paulina-carvacho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulina--carvacho-blue?logo=linkedin)](https://linkedin.com/in/paulinacarvachor)
 [![GitHub](https://img.shields.io/badge/GitHub-paulinacarvacho-black?logo=github)](https://github.com/paulinacarvacho)
